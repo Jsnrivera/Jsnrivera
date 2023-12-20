@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Jsnrivera
+- 👀 I’m interested in create a software.
+- 🌱 I’m currently learning Programming.
+- 💞️ I’m looking to collaborate on translate to spanish projects.
